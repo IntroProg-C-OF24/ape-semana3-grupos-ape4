@@ -7,7 +7,7 @@ public class Ejercicio03 {
         int var4 = 1;
         int var5 = 11;
         double respuesta;
-        respuesta = Math.pow(var1, 2) + Math.sqrt(var2) + var3 / (var4 + var5) ;
+        respuesta = Math.pow(var1, 2) + Math.sqrt(var2) + var3 / (var4 + var5);
         System.out.println("La respuesta es" + " " + respuesta);
     }
     
