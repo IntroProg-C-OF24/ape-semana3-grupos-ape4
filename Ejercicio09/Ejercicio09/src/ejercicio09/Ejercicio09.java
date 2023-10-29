@@ -7,8 +7,7 @@ public class Ejercicio09 {
         int var4 = 50;
         double var5 = (Math.sqrt(var1) + (Math.sqrt(var2) * var3));
         boolean respuesta;
-        respuesta = >= var4);
-        System.out.println(var5);
-    }
-    
+        respuesta = var5 >= var4;
+        System.out.println("La operacion da como resultado: " + respuesta);
+    }   
 }
